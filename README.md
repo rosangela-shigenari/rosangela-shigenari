@@ -1,7 +1,7 @@
 ### Hello folks 👋
 
 - :nerd_face: Working as application developer @IBM
-- :books: Computer Engineering degree
+- :books: Computer Engineer
 - :rocket: Innovation enthusiast
 - :hammer_and_wrench:  Working on multiple development stacks with hardware :gear: (verilog, assembly and arduino) and software :technologist: (java, c/c++, javascript and python)
 
